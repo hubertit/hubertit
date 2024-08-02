@@ -22,4 +22,4 @@
 - ⚡ Fun fact **I'm Intro-Extrovert**
 
 
-<p>&nbsp;<img align="left"  width='38%' src="https://github-readme-stats.vercel.app/api?username=hubertit&theme=dark&show_icons=true&locale=en" alt="hubertit" /><img align="left"  width='40%' src="https://github-readme-streak-stats.herokuapp.com/?user=hubertit&theme=dark" alt="hubertit" /></p>
+<p>&nbsp;<img align="left"  width='48%' src="https://github-readme-stats.vercel.app/api?username=hubertit&theme=dark&show_icons=true&locale=en" alt="hubertit" /><img align="left"  width='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=hubertit&theme=dark" alt="hubertit" /></p>

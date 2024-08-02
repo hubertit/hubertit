@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hubertit&theme=dark" alt="hubertit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hubert_it" target="blank"><img src="https://img.shields.io/twitter/follow/hubert_it&theme=dark?logo=twitter&style=for-the-badge" alt="hubert_it" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hubert_it" target="blank"><img src="https://img.shields.io/twitter/follow/hubert_it?logo=twitter&style=for-the-badge&theme=dark" alt="hubert_it" /></a> </p>
 
 - 🔭 I’m currently working on **Tarama Platform**
 
@@ -22,4 +22,12 @@
 - ⚡ Fun fact **I'm Intro-Extrovert**
 
 
-<p>&nbsp;<img align="left"  width='43%' src="https://github-readme-stats.vercel.app/api?username=hubertit&theme=dark&show_icons=true&locale=en" alt="hubertit" /><img align="left"  width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=hubertit&theme=dark" alt="hubertit" /></p>
+
+
+### Skills:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<p>&nbsp;<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=hubertit&theme=dark&show_icons=true&locale=en" alt="hubertit" /><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertit&theme=dark" alt="hubertit" /></p>
+

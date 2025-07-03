@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hubert TI</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Hubert TI</h1>
 <h3 align="center">A passionate full stack developer from Kigali</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hubertit&label=Profile%20views&color=0e75b6&style=flat" alt="hubertit" />
+  <img src="https://profile-counter.glitch.me/hubertit/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 ---
 
 ### 🚀 Tech Stack
-- **Frontend:** Angular, React, Next.js, Flutter, React Native, ZK, Tailwind CSS
-- **Backend:** Spring Boot, Node.js, PHP, Laravel
-- **Others:** Python, MySQL, Docker, DevOps (Learning)
+**Frontend:** Angular, React, Next.js, Flutter, React Native, ZK, Tailwind CSS  
+**Backend:** Spring Boot, Node.js, PHP, Laravel  
+**Others:** Python, MySQL, Docker, DevOps (Learning)
 
 ---
 
@@ -50,7 +50,21 @@
 
 ---
 
+### 📊 GitHub Stats
+
 <p>&nbsp;
   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=hubertit&theme=dark&show_icons=true&locale=en" alt="hubertit stats" />
   <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertit&theme=dark" alt="hubertit streak" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/hubertit/hubertit/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📈 GitHub Metrics
+<p align="center">
+  <img src="https://github.com/hubertit/hubertit/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>

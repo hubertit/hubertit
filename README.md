@@ -17,8 +17,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Tarama Platform**
-- 🌱 I’m currently learning **DevOps**
+
+- 🌱 Currently learning **DevOps**
 - 💬 Ask me about **Mobile Apps Development**
 - 📫 Reach me at **hubert@devslab.io**
 - ⚡ Fun fact: **I'm an Intro-Extrovert**

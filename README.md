@@ -5,11 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=hubertit&label=Profile%20views&color=0e75b6&style=flat" alt="hubertit" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hubertit&theme=darkhub&no-frame=true" alt="hubertit trophies" />
   </a>
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hubertit&theme=github-dark&hide_border=true" alt="hubertit activity graph" />
 </p>
+
 
 <p align="left">
   <a href="https://twitter.com/hubert_it" target="blank">

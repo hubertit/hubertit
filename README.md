@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=hubertit&theme=darkhub&no-frame=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=hubertit&theme=darkhub&no-frame=true" alt="hubertit trophies" />
+  <a href="https://trophy.ryglcloud.net/?username=hubertit&theme=darkhub&no-frame=true">
+    <img src="https://trophy.ryglcloud.net/?username=hubertit&theme=darkhub&no-frame=true" alt="hubertit trophies" />
   </a>
 </p> 
 

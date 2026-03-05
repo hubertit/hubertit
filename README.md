@@ -11,9 +11,9 @@
   </a>
 </p> 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hubertit&theme=github-dark&hide_border=true" alt="hubertit activity graph" />
-</p> -->
+</p> 
 
 
 <p align="left">

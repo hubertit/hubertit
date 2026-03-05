@@ -11,9 +11,9 @@
   </a>
 </p> 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hubertit&theme=github-dark&hide_border=true" alt="hubertit activity graph" />
-</p> 
+</p> -->
 
 
 <p align="left">
@@ -56,6 +56,6 @@
 ---
 
 <p>&nbsp;
-  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=hubertit&theme=dark&show_icons=true&locale=en" alt="hubertit stats" />
+  <!--<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=hubertit&theme=dark&show_icons=true&locale=en" alt="hubertit stats" />-->
   <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertit&theme=dark" alt="hubertit streak" />
 </p>

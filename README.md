@@ -26,7 +26,7 @@
 - 🌱 Currently learning **DevOps**
 - 💬 Ask me about **Mobile Apps Development**
 - 📫 Reach me at **hubert@devslab.io**
-- ⚡ Fun fact: **I'm an Intro-Extrovert**
+- ⚡ Fun fact: **I'm an Ambivert**
 
 ---
 
